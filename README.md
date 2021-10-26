@@ -2,7 +2,7 @@
 # This is a set up test.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![Screenshot ](/assets/screenshot-setup.png)
+![Screenshot](screenshot-setup.png)
 
 Additional description about the project and its features.
 this setup is to show that i understand how linters setting work.
